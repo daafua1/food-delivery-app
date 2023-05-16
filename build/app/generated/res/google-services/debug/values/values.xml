@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">808463964758-vkdt2oaom3fp2g0do4r6hjnk1ak4r5ct.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">808463964758</string>
+    <string name="google_api_key" translatable="false">AIzaSyAzYEQ6dOAZuWrQ8IvlhoFR_2xzslW_dso</string>
+    <string name="google_app_id" translatable="false">1:808463964758:android:82061b8511fbd5a75339f7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzYEQ6dOAZuWrQ8IvlhoFR_2xzslW_dso</string>
+    <string name="google_storage_bucket" translatable="false">daafua-ashfood.appspot.com</string>
+    <string name="project_id" translatable="false">daafua-ashfood</string>
+</resources>

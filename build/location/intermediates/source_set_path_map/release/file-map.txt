@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-annotation-experimental-1.1.0-0 /Users/mhc/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-1 /Users/mhc/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+com.lyokone.location-jetified-play-services-base-16.0.1-2 /Users/mhc/.gradle/caches/transforms-3/5458921e52f1c864a21589fbf5ec4388/transformed/jetified-play-services-base-16.0.1/res
+com.lyokone.location-media-1.0.0-3 /Users/mhc/.gradle/caches/transforms-3/66806a89e8662b6624e8aa4cb1f0a120/transformed/media-1.0.0/res
+com.lyokone.location-coordinatorlayout-1.0.0-4 /Users/mhc/.gradle/caches/transforms-3/9e9eee86f9e5e512af4a020f56b9e447/transformed/coordinatorlayout-1.0.0/res
+com.lyokone.location-core-1.6.0-5 /Users/mhc/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+com.lyokone.location-jetified-play-services-basement-16.0.1-6 /Users/mhc/.gradle/caches/transforms-3/ed893a1e9a9bddf96382cedebd305a56/transformed/jetified-play-services-basement-16.0.1/res
+com.lyokone.location-jetified-window-1.0.0-beta04-7 /Users/mhc/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+com.lyokone.location-main-8 /Users/mhc/.pub-cache/hosted/pub.dev/location-4.4.0/android/src/main/res
+com.lyokone.location-release-9 /Users/mhc/.pub-cache/hosted/pub.dev/location-4.4.0/android/src/release/res
+com.lyokone.location-pngs-10 /Users/mhc/david/ashfood/build/location/generated/res/pngs/release
+com.lyokone.location-resValues-11 /Users/mhc/david/ashfood/build/location/generated/res/resValues/release
+com.lyokone.location-rs-12 /Users/mhc/david/ashfood/build/location/generated/res/rs/release
+com.lyokone.location-mergeReleaseResources-13 /Users/mhc/david/ashfood/build/location/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.lyokone.location-mergeReleaseResources-14 /Users/mhc/david/ashfood/build/location/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.lyokone.location-merged_res-15 /Users/mhc/david/ashfood/build/location/intermediates/merged_res/release

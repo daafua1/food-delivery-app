@@ -26,3 +26,4 @@ o flutter build apk
 
 3. The APK can be found in the following directory:
 o /build/app/outputs/flutter-apk/app-debug.apk# food-delivery-app
+

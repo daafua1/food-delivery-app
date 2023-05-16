@@ -24,6 +24,7 @@ o flutter pub get
 2. Run the following command to build an APK:
 o flutter build apk
 
+
 3. The APK can be found in the following directory:
 o /build/app/outputs/flutter-apk/app-debug.apk# food-delivery-app
 
